@@ -1,6 +1,6 @@
 import sys
 
-from .myapp.main import create_app
+from myapp.main import create_app
 
 sys.path.append("..")
 
